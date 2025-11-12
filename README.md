@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey there, I'm cpich3g
+# 👋 Hey there, I'm Justin (cpich3g)
 
-### 🤖 AI Enthusiast | 🎮 RL Experimenter | ☁️ Cloud Tinkerer | 💻 Full-Stack Developer
+### 🤖 AI Enthusiast | 🎮 RL Experimenter | ☁️ Cloud Tinkerer | 💻 BI Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Teaching+LLMs+to+play+PacMan+🕹️;Building+with+Azure+OpenAI+☁️;Exploring+GenAI+%2B+LangGraph+🧠;From+Jenkins+to+AI+Agents+🚀)](https://git.io/typing-svg)
 
@@ -24,13 +24,13 @@ class Developer:
     def __init__(self):
         self.name = "cpich3g"
         self.languages = ["Python", "TypeScript", "JavaScript", "C#", "Java"]
-        self.ai_ml = ["OpenAI", "Azure OpenAI", "LangGraph", "Reinforcement Learning"]
+        self.ai_ml = ["OpenAI", "Azure OpenAI", "LangGraph", "Reinforcement Learning", "Unsloth", "PyTorch OpenEnv"]
         self.cloud = ["Azure", "Serverless Architecture"]
-        self.past_lives = ["Jenkins CI/CD", "Objective-C", "Node.js APIs"]
+        self.past_lives = ["Jenkins CI/CD", "Objective-C", "Node.js APIs", "Data Analytics", "Power BI"]
         self.current_obsession = "Making machines think (and play games)"
     
     def fun_fact(self):
-        return "Started with Jenkins servers, now I teach AIs to eat ghosts 👻"
+        return "Started with Data Analysis (Power BI), now I teach AIs to eat ghosts 👻"
 ```
 
 <div align="center">
@@ -82,7 +82,7 @@ Classic C# tool exported from the Google Code archives. Vintage vibes. ⭐ 3
 
 From debugging Jenkins pipelines in 2015 to training neural networks to navigate mazes in 2025 — it's been quite a ride! My repos tell the story:
 
-- **2013-2015**: The Jenkins & Java Era 🏛️
+- **2013-2015**: The Jenkins, Java & BI Developer(PowerBI) Era 🏛️
 - **2018**: Node.js Renaissance 🌐
 - **2022**: Serverless Adventures ☁️
 - **2023-2024**: Enter the AI 🤖
